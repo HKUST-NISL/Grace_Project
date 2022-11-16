@@ -6,4 +6,4 @@
 	url = https://github.com/HKUST-NISL/Grace_Connector
 [submodule "Grace_Attention"]
 	path = Grace_Attention
-	url = ./Grace_Attention
+	url = https://github.com/HKUST-NISL/Grace_Attention.git
