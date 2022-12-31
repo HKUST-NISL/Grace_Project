@@ -7,3 +7,6 @@
 [submodule "Grace_Attention"]
 	path = Grace_Attention
 	url = https://github.com/HKUST-NISL/Grace_Attention.git
+[submodule "Grace_GUI"]
+	path = Grace_GUI
+	url = https://github.com/HKUST-NISL/Grace_GUI
