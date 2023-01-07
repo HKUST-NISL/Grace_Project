@@ -1,6 +1,6 @@
 [submodule "Connector"]
 	path = Connector
-	url = ./Connector
+	url = https://github.com/HKUST-NISL/Grace_Connector
 [submodule "Grace_Connector"]
 	path = Grace_Connector
 	url = https://github.com/HKUST-NISL/Grace_Connector
@@ -10,3 +10,6 @@
 [submodule "Grace_GUI"]
 	path = Grace_GUI
 	url = https://github.com/HKUST-NISL/Grace_GUI
+[submodule "Grace_Proj_Msgs"]
+	path = Grace_Proj_Msgs
+	url = https://github.com/HKUST-NISL/Grace_Proj_Msgs
