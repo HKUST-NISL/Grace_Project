@@ -1,5 +1,10 @@
+#Check submodules
 git submodule foreach git status
+
 #commit submodules
 git add -A
 git commit
 git push --recurse-submodules=check
+
+#Clone with submodules
+git clone --recurse-submodules -j8 
