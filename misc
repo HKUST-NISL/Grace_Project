@@ -8,3 +8,6 @@ git push --recurse-submodules=check
 
 #Clone with submodules
 git clone --recurse-submodules -j8 
+
+#Update with submodules
+git submodule update --recursive --remote
