@@ -4,7 +4,6 @@ docker run -it --gpus all --network host  --name "container-graceproject-attenti
 
 #Re-entering (start the stopped one)
 docker container start container-graceproject-attention-tracking
-
 docker attach container-graceproject-attention-tracking
 
 #Insided the image, cd to the project directory
