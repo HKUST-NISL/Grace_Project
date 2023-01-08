@@ -1,0 +1,11 @@
+#Bring up the docker image built by the attention dockerfile
+docker run -it --gpus all --network host graceproject-attention-tracking
+
+#CD to the project directory
+cd /home/HKUST_GRACE/Grace_Project/
+
+#Configure network params (ROS-IP in particular) if necessary
+
+#Launch the module for tracking, reid, nodding and aversion
+source launch_attention.bash
+
