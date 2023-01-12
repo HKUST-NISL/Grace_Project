@@ -13,3 +13,6 @@
 [submodule "Grace_Proj_Msgs"]
 	path = Grace_Proj_Msgs
 	url = https://github.com/HKUST-NISL/Grace_Proj_Msgs
+[submodule "Grace_Emotion_HeadPoseAttention"]
+	path = Grace_Emotion_HeadPoseAttention
+	url = https://github.com/tkpham3105/Grace_Emotion_HeadPoseAttention.git
